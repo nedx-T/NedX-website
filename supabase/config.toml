@@ -1,0 +1,10 @@
+project_id = "eazlpjlpwokqlfrryxlx"
+
+[functions.send-booking-email]
+verify_jwt = false
+
+[functions.create-admin-invitation]
+verify_jwt = false
+
+[functions.accept-admin-invitation]
+verify_jwt = false
